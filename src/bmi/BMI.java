@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author acekn
+ * @author Paul Knuckey
  */
 public class BMI {
     
